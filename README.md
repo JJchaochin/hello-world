@@ -1,4 +1,6 @@
 # hello-world
+20191002 I come again to learn.
+
 我的初次學習
 
 
